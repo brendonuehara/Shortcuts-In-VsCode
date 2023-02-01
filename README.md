@@ -1,5 +1,8 @@
-<h1 align="center">
+<div align="center">
+<h1>
 Shortcuts in Vs Code - Atalhos no Vs Code</h1>
+<img height="150" width="150" src="https://cdn.discordapp.com/attachments/951539774295007235/1062304338711674891/8bbca96c8861cd677c575cef58e3d02239d2ac9d_full.jpg"/>
+</div>
 
    <h4><i>Hide/Show Sidebar - Ocultar/Mostrar barra lateral</i></h4>
 
