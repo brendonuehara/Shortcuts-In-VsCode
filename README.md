@@ -71,7 +71,7 @@ Shortcuts in Vs Code - Atalhos no Vs Code</h1>
    -----------------
    <h4><i>Copy, paste and cut - Copiar, colar e recortar</i></h4>
    
-   - **Ctrl + C, V, X** (After cutting just use the paste - Depois de recortar é só usar o colar)**
+   - **Ctrl + C, V, X (After cutting just use the paste - Depois de recortar é só usar o colar)**
  
    -----------------
    <h4><i>Navigate between tabs - Navegar entre as abas</i></h4>
