@@ -86,7 +86,7 @@ Shortcuts in Vs Code - Atalhos no Vs Code</h1>
    -----------------
    <h4><i>Back to previous line - Voltar para a linha anterior</i></h4>
    
-   - **Alt + Left - Esquerda(keyboard arrows - setas do teclado)**
+   - **Alt + Left - Esquerda (keyboard arrows - setas do teclado)**
  
    -----------------
    <h4><i>Zen mode - Modo zen</i></h4>
